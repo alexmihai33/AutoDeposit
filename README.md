@@ -27,6 +27,8 @@ Backend: Spring Boot + Java
 
 Database: PostgreSQL
 
+Other used technologies worth mentioning: Maven, Node.js, Axios, Bootstrap, Tailwind, Postman
+
 
 # Structure (high-level overview)
 
